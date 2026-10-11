@@ -6,17 +6,19 @@ An AI-enabled healthcare Digital Twin prototype that combines simulated Electron
 
 ## Team Details
 
-| Role | Name | Email | Phone |
-|------|------|-------|-------|
-| Team Leader | <Harshita Singh> | <24bcs12608@cuchd.in>
-| Member 2 | <Drishti> | <24bcs12557@cuchd.in>
+| Role | Name | Email |
+|------|------|-------|
+| Team Leader | Harshita Singh | 24bcs12608@cuchd.in |
+| Member 2 | Drishti | 24bcs12557@cuchd.in |
+
 - Team Name: Codexxx
-- College:Chandigarh University 
+- College:Chandigarh University
+
 ## Submission Links
 
 | Item | Link |
 |------|------|
-| 🎥 Demo video (20+ min) | <unlisted YouTube link> |
+| 🎥 Demo video (20+ min) | (add link here) |
 | 📐 Architecture diagram | [docs/architecture.pdf](docs/architecture.pdf) |
 | 📊 Presentation | [docs/presentation.pdf](docs/presentation.pdf) |
 | 📄 License | [LICENSE](LICENSE) (MIT) |
