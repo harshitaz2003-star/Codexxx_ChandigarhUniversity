@@ -18,7 +18,7 @@ An AI-enabled healthcare Digital Twin prototype that combines simulated Electron
 
 | Item | Link |
 |------|------|
-| 🎥 Demo video (20+ min) | (add link here) |
+| 🎥 Demo video (20+ min) | (https://www.youtube.com/watch?v=Y0pdoQWtEcE) |
 | 📐 Architecture diagram | [docs/architecture.pdf](docs/architecture.pdf) |
 | 📊 Presentation | [docs/presentation.pdf](docs/presentation.pdf) |
 | 📄 License | [LICENSE](LICENSE) (MIT) |
